@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+* Reading
+  - Historical Non-Fiction
+  - Political Science
+  - Philosphy
+* Learning
+* Mandarin
+* Cooking
+* Video Games
+  - FPS
+  - MMO
+  - PvP
